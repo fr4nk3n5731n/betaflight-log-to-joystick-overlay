@@ -50,4 +50,4 @@ thanks and have fun
 ## TODO?:
 * maybe add a UI with preview
 * maybe read data straight from Betaflight Log
- * decode log data
+  * decode log data
