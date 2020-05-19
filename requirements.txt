@@ -1,0 +1,6 @@
+PIL
+imageio
+imageio-ffmpeg
+scipy
+numpy
+
